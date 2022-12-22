@@ -4,10 +4,16 @@
 - [Project Video Record](https://github.com/musthafiz/Selenium-Web-Automation-Module-Basis-Testing-Islamicshopdk.com#project-video-record)  
 - [Work Step Description](https://github.com/musthafiz/Selenium-Web-Automation-Module-Basis-Testing-Islamicshopdk.com#work-step-description)  
 - [Setup for Running Web Automation test-cases Using Selenium, Java and TestNG on Your Windows Device](https://github.com/musthafiz/Selenium-Web-Automation-Module-Basis-Testing-Islamicshopdk.com#setup-for-running-web-automation-test-cases-using-selenium-java-and-testng-on-your-windows-device)  
-	- JAVA
+	
+	- JAVA     
+	- Maven     
+  	- Eclipse         
+     	- Eclipse Project    
 
-  
-     
+     		* Create a maven project        
+     		* Edit pom.xml    
+     		* Edit test script   
+     		* Run test script              
 ## Site URL https://www.islamicshopdk.com/
 ### Project Video Record
 https://user-images.githubusercontent.com/92669932/209064173-1c6abc0d-c3de-4b43-b1c5-bd107e4b37a9.mp4    
