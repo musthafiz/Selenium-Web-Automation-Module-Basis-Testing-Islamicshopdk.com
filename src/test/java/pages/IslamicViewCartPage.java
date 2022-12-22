@@ -19,20 +19,20 @@ public class IslamicViewCartPage extends IslamicBasePage {
 	public By TRANSITIONID = By.xpath("//input[@name='nagad_trans_id']");
 	public By CONFIRMORDER = By.xpath("//button[@id='place_order']");
 
-	public void firstName() {
-		sendKeys(FIRSTNAME, "Abul Hasan");
+	public void firstName(String fname) {
+		sendKeys(FIRSTNAME, fname);
 	}
 
-	public void lastName() {
-		sendKeys(LASTNAME, "Sohan");
+	public void lastName(String lname) {
+		sendKeys(LASTNAME, lname);
 	}
 
-	public void streetAddress() {
-		sendKeys(STREETADDRESS, "Akaur Thakur Para , Simul Toli Road");
+	public void streetAddress(String address) {
+		sendKeys(STREETADDRESS, address);
 	}
 
-	public void town() {
-		sendKeys(TOWN, "Golir more vuter dokan");
+	public void town(String townn) {
+		sendKeys(TOWN, townn);
 	}
 
 	public void district() {
@@ -43,22 +43,20 @@ public class IslamicViewCartPage extends IslamicBasePage {
 		clickOnElement(SELECTDISTRICT);
 	}
 
-	public void postCode() {
-		sendKeys(POSTCODE, "1952");
+	public void postCode(String pcode) {
+		sendKeys(POSTCODE, pcode);
 	}
 
-	public void phone() {
-		sendKeys(PHONE, "1445522333");
+	public void phone(String phn) {
+		sendKeys(PHONE, phn);
 	}
 
-	public void email() {
-		sendKeys(EMAIL, "abulmia@gmail.kom");
+	public void email(String mail) {
+		sendKeys(EMAIL, mail);
 	}
 
-	public void comments() {
-		sendKeys(COMMENTS, "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to "
-				+ "demonstrate the visual form of a document or a " + "typeface without relying on meaningful content. "
-				+ "Lorem ipsum may be used as a placeholder before final copy is available.");
+	public void comments(String cmt) {
+		sendKeys(COMMENTS, cmt);
 	}
 
 	public void payment() {
@@ -71,12 +69,12 @@ public class IslamicViewCartPage extends IslamicBasePage {
 		}
 	}
 
-	public void transition() {
-		sendKeys(TRANSITION, "01303634998");
+	public void transition(String trnson) {
+		sendKeys(TRANSITION, trnson);
 	}
 
-	public void transitionID() {
-		sendKeys(TRANSITIONID, "L5P7M");
+	public void transitionID(String trnsonID) {
+		sendKeys(TRANSITIONID, trnsonID);
 	}
 
 	public void confirmOrder() {
