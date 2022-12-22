@@ -2,6 +2,9 @@
 
 - [Site URL](https://github.com/musthafiz/Selenium-Web-Automation-Module-Basis-Testing-Islamicshopdk.com#site-url-httpswwwislamicshopdkcom)  
 - [Project Video Record](https://github.com/musthafiz/Selenium-Web-Automation-Module-Basis-Testing-Islamicshopdk.com#project-video-record)  
+- [Work Step Description](https://github.com/musthafiz/Selenium-Web-Automation-Module-Basis-Testing-Islamicshopdk.com#work-step-description)  
+- [Setup for Running Web Automation test-cases Using Selenium, Java and TestNG on Your Windows Device](https://github.com/musthafiz/Selenium-Web-Automation-Module-Basis-Testing-Islamicshopdk.com#setup-for-running-web-automation-test-cases-using-selenium-java-and-testng-on-your-windows-device)  
+
   
      
 ## Site URL https://www.islamicshopdk.com/
