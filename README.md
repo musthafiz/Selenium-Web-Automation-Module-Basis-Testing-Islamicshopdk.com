@@ -15,8 +15,8 @@
      		* Edit test script   
      		* Run test script              
 ### Site URL: https://www.islamicshopdk.com/
-### Project Video Record
-https://user-images.githubusercontent.com/92669932/209064173-1c6abc0d-c3de-4b43-b1c5-bd107e4b37a9.mp4    
+### Project Video Record      
+https://user-images.githubusercontent.com/92669932/209120924-dfbf1a07-710c-4af7-b94a-868845397b21.mp4         
 ### Work Step Description   
 1. Visit This Site   
 2. Scroll Down Upto Slider    
