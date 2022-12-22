@@ -4,7 +4,8 @@
 - [Project Video Record](https://github.com/musthafiz/Selenium-Web-Automation-Module-Basis-Testing-Islamicshopdk.com#project-video-record)  
 - [Work Step Description](https://github.com/musthafiz/Selenium-Web-Automation-Module-Basis-Testing-Islamicshopdk.com#work-step-description)  
 - [Setup for Running Web Automation test-cases Using Selenium, Java and TestNG on Your Windows Device](https://github.com/musthafiz/Selenium-Web-Automation-Module-Basis-Testing-Islamicshopdk.com#setup-for-running-web-automation-test-cases-using-selenium-java-and-testng-on-your-windows-device)  
-- [Java JDK Download, install, set JAVA_HOME and path in environment’s system variable.](https://github.com/musthafiz/Selenium-Web-Automation-Module-Basis-Testing-Islamicshopdk.com#java-jdk-download-install-set-java_home-and-path-in-environments-system-variable)  
+	- JAVA
+
   
      
 ## Site URL https://www.islamicshopdk.com/
@@ -19,6 +20,7 @@ https://user-images.githubusercontent.com/92669932/209064173-1c6abc0d-c3de-4b43-
 6. Click Checkout   
 7. Provide All Information on View Cart page  
 8. Place Order  
+
 
 ### Setup for Running Web Automation test-cases Using Selenium, Java and TestNG on Your Windows Device
 <details>
